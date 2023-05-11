@@ -16,7 +16,7 @@ public class Movie {
     public Long getId() {
         return id;
     }
-    
+
 
     public String getAuthor() {
         return author;
